@@ -1,5 +1,5 @@
 Nome: Lucca Bugatti
 Email: Lbugattilive@gmail.com
-Sobre: Programador entrando no mundo do Java
+Sobre: 	Meus hobbies são jogar, ler e ver filmes.
 
 Github: https://github.com/luccabugatti
