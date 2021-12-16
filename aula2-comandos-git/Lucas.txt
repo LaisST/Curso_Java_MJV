@@ -1,3 +1,6 @@
 Nome: Lucas Dias Serra
 Email: lucasdserra1234@gmail.com
 Sobre: Me chamo lucas, tenho 21 anos e moro em São Fidélis, RJ. Gosto de aprender sobre novas tecnologias e de viajar.
+
+Pergunta 1: Quando começou a estudar Java?
+Pergunta 2: Está gostando de estudar Git?
