@@ -4,3 +4,5 @@ sobre: desenvolvimento, ler, escrever, jogar
 
 Pergunta do Lucca: Qual seu livro favorito?
                  : Qual seu jogo favorito?
+
+Pergunta da Priscila: Qual sua maior dificuldade com a programação?
