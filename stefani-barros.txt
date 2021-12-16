@@ -1,6 +1,4 @@
 Nome: Stefani Barros
 E-mail: stefani@gmail.com
 Sobre: Amo cozinhar e comer, e praia é o meu lugar favorito.
-
-
 Pergunta de Dani: Onde aprendeu a mexer no git?
