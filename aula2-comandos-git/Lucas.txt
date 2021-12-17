@@ -14,3 +14,6 @@ Resposta: Sim, Git é uma ferramenta importante de versionamento.
 
 Pergunta Alberto Moiseis: Qual local mais distante você já viajou e qual seua tecnologia favorita ?
 github: lucas-serra
+
+Pergunta Lucca: - Qual a melhor viagem que você já fez?
+		- Qual sua linguagem preferida para programar?

@@ -11,5 +11,7 @@ Pergunta: Qual jogo você mais gosta?
 	Resposta: Atualmente eu estou revezando entre 2 livros, Duna e It a coisa.
 
 	:Em qual cidade você mora?
+	Resposta: Moro em SP.
 
 	:A quanto tempo Gosta de programar?
+	Resposta: Comecei a ver programação desde pequeno na escola, entao faz bastante tempo.
