@@ -11,4 +11,6 @@ Reposta: Faz 2 anos que estudo Java
 Pergunta 2: Está gostando de estudar Git?
 Resposta: Sim, Git é uma ferramenta importante de versionamento.
 
+
+Pergunta Alberto Moiseis: Qual local mais distante você já viajou e qual seua tecnologia favorita ?
 github: lucas-serra
