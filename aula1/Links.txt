@@ -1,0 +1,30 @@
+Aula 1 - 13/12/2021
+GIT GITHUB 
+https://glysns.gitbook.io/git-e-github/
+
+https://blog.geekhunter.com.br/o-que-e-commit-e-como-usar-commits-semanticos/
+
+https://glysns.gitbook.io/git-e-github/
+
+https://ilegra.com/blog/tudo-o-que-voce-precisa-saber-sobre-commits-semanticos/
+
+https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-1709
+
+////////////////////////////////////////////////
+
+Aula 2 - 14/12/2021
+
+https://ilegra.com/blog/tudo-o-que-voce-precisa-saber-sobre-commits-semanticos/
+
+https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-1709
+
+https://docs.github.com/pt/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization
+
+https://learngitbranching.js.org/?locale=pt_BR
+
+
+
+
+
+
+
