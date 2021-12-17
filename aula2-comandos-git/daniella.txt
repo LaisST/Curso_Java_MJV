@@ -3,8 +3,18 @@ email: daniella.siqueira80@gmail.com
 sobre: desenvolvimento, ler, escrever, jogar
 
 Pergunta do Lucca: Qual seu livro favorito?
+Resposta para Lucca: Cidade da Magia de Marion Zimmer Bradley
                  : Qual seu jogo favorito?
+Resposta para Lucca: Tem muitos jogos favoritos, mas se for contar o tempo de horas
+que jogo, Ark Survival Evolved é o mais jogado. Mas gosto de todos de sobrevivência
+em mundo aberto com bons gráficos.
 
 Pergunta da Priscila: Qual sua maior dificuldade com a programação?
+Resposta para Priscila: Eu sempre tive muita dificuldade com arrow functions e funções
+em geral. Aprendendo um pouco de typescript e dart tomei muita surra disso e tenho
+melhorado. Mas no começo tudo foi difícil. A prática leva à fluência.
 
-Pergunta Alberto Moiseis: Que tipo de livro e jogo, você gosta ? '-' 
+Pergunta Alberto Moiseis: Que tipo de livro e jogo, você gosta ? '-'
+Resposta para Alberto: Livros de ficção científica, suspense e os clássicos do
+Dan Brown. Jogos de mundo aberto que têm muitas possibilidades e itens, principalmente 
+os de sobrevivência.
