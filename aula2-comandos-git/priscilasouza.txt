@@ -6,7 +6,12 @@ desenhar, pintar e amo música.
 <<<<<<< HEAD
 
 Pergunta Alberto Moiseis: Qual o estilo de desenho que você gosta e a música que chama sua atenção? 
+Resposta: Gosto muito de lettering com desenhos abstratos, formar geométricas, cores. 
+Gosto de música que conte uma história, que tenha significado.
 =======
 Pergunta da Lais: Que tipo de música você gosta?
+Resposta: Eu ouço todo tipo de música, do gospel ao funk(kkk). Mas, gosto de músicas que carregam uma história.
+=======
 Pergunta da Lais: Há quanto tempo estuda programação?
+Resposta: Sou bebê na programação, estudo desde Julho/2021.
 >>>>>>> 7f59da8c7107d736a79be62d075e643a77231cbe
