@@ -6,3 +6,5 @@ Pergunta do Lucca: Qual seu livro favorito?
                  : Qual seu jogo favorito?
 
 Pergunta da Priscila: Qual sua maior dificuldade com a programação?
+
+Pergunta Alberto Moiseis: Que tipo de livro e jogo, você gosta ? '-' 
