@@ -3,3 +3,9 @@ E-mail: stefani@gmail.com
 Sobre: Amo cozinhar e comer, e praia é o meu lugar favorito.
 
 Pergunta de Dani: Onde aprendeu a mexer no git?
+
+Pergunta do Lucca: Aonde aprendeu cozinhar?
+		 : Qual sua comida favorita?
+
+Pergunta do Lucas: Assiste master chefe?
+		   Gosta mais de trabalhar com backend ou frontend?

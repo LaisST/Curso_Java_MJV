@@ -9,3 +9,8 @@ Qual tipo de série você mais gosta? Eu gosto de série de comédia tipo Friend
                  
 Pergunta de Dani: Quais são seus livros fazvoritos?
 Resposta: Todos da Carina Rissi e Harry Potter (gosto de todos mas meu favorito é Harry Potter e o prisioneiro de Azkaban)
+
+Pergunta da Priscila: Como foi seu primeiro contato com programação?
+Resposta: Meu primeiro contato foi em uma projeto que minha antiga empresa estava desenvolvendo, eu entrei na equipe como especialista no produto (programas de intercâmbio) Acabei gostando do que os desenvolvedores estavam fazendo então decidi fazer uns cursos só para entender melhor e acabei mudando de área.
+
+Pergunta Alberto Moiseis: Que tipo de série você gosta ? Quantos livros você ler por mês/ano ? 

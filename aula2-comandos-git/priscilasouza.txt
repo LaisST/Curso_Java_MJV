@@ -1,0 +1,12 @@
+Nome: Priscila Souza
+E-mail: priscilakarinajump@gmail.com
+Sobre: Pernambucana, 32 anos, moro em Curitiba. Amo jogos mobile,
+desenhar, pintar e amo música.
+
+<<<<<<< HEAD
+
+Pergunta Alberto Moiseis: Qual o estilo de desenho que você gosta e a música que chama sua atenção? 
+=======
+Pergunta da Lais: Que tipo de música você gosta?
+Pergunta da Lais: Há quanto tempo estuda programação?
+>>>>>>> 7f59da8c7107d736a79be62d075e643a77231cbe

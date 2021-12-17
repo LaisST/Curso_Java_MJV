@@ -5,4 +5,11 @@ Sobre: 	Meus hobbies são jogar, ler e ver séries.
 Github: https://github.com/luccabugatti
 
 Pergunta: Qual jogo você mais gosta?
+	Resposta: Meu jogo favorito chama Life os Strange.
+
         : Qual livro você está lendo atualmente?
+	Resposta: Atualmente eu estou revezando entre 2 livros, Duna e It a coisa.
+
+	:Em qual cidade você mora?
+
+	:A quanto tempo Gosta de programar?
