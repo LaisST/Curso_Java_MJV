@@ -4,8 +4,7 @@ Git: https://github.com/albertomoiseisof;
 
 Sobre: Gosto de Séries, Mangás e Jogos RPG. Quero ser especialista na Stack de Java e me aventurar em novas tecnologias!
 
-<<<<<<< HEAD:AlbertoMoiseis.txt
 Pergunta Dani: Você gostaria de fazer jogos com programação?
-=======
+Resposta Dani: Sim, tenho interesse conhecer e ter como hobby programa para jogos rpg;
 Pergunta da Stefani: Quais séries está assistindo ultimamente? 
->>>>>>> main:aula2-comandos-git/AlbertoMoiseis.txt
+Resposta Stefani: A Roda do Tempo e Peaky Blinders.
