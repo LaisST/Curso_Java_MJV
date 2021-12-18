@@ -13,10 +13,13 @@ Resposta: Sim, Git é uma ferramenta importante de versionamento.
 
 
 Pergunta Alberto Moiseis: Qual local mais distante você já viajou e qual seua tecnologia favorita ?
+Resposta: Guarapari, Es. Minha tecnologia favorita é java.
 github: lucas-serra
 
 Pergunta Lucca: - Qual a melhor viagem que você já fez?
 		- Qual sua linguagem preferida para programar?
-		
+		Resposta:para Guarapari,ES
+			 Java
 		
 Pergunta Joana: Qual lugar você sonha em conhecer?
+		Nova York
