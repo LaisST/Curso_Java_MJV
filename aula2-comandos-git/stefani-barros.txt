@@ -3,12 +3,17 @@ E-mail: stefani@gmail.com
 Sobre: Amo cozinhar e comer, e praia é o meu lugar favorito.
 
 Pergunta de Dani: Onde aprendeu a mexer no git?
+Resposta: Eu já fiz vários cursos que sempre é ensinado git, então aprendi de tanto rever conceitos nos estudos e em prática.
 
 Pergunta do Lucca: Aonde aprendeu cozinhar?
+Resposta: na faculdade de gastronomia
 		 : Qual sua comida favorita?
+Resposta: como boa baiana, mariscada.
 
 Pergunta do Lucas: Assiste master chefe?
+Resposta: sou tão viciada que acabei cursando gastronomia por isso.
 		   Gosta mais de trabalhar com backend ou frontend?
-
+Resposta: no momento estou gostando bastante do práticar o frontend.
 		   
 Pergunta Joana: Qual o seu prato favorito?		   
+Resposta: então, amo mariscada e tudo que envolva frutos do mar.
