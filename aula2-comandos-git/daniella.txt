@@ -18,3 +18,5 @@ Pergunta Alberto Moiseis: Que tipo de livro e jogo, você gosta ? '-'
 Resposta para Alberto: Livros de ficção científica, suspense e os clássicos do
 Dan Brown. Jogos de mundo aberto que têm muitas possibilidades e itens, principalmente 
 os de sobrevivência.
+
+pergunta Joana: Qual jogo você recomenda que todos deveriam tentar ao menos uma vez?

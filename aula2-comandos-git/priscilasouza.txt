@@ -10,3 +10,6 @@ Pergunta Alberto Moiseis: Qual o estilo de desenho que você gosta e a música q
 Pergunta da Lais: Que tipo de música você gosta?
 Pergunta da Lais: Há quanto tempo estuda programação?
 >>>>>>> 7f59da8c7107d736a79be62d075e643a77231cbe
+
+
+Pergunta Joana: Que tipo de pintura você faz?

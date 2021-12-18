@@ -15,3 +15,6 @@ Pergunta: Qual jogo você mais gosta?
 
 	:A quanto tempo Gosta de programar?
 	Resposta: Comecei a ver programação desde pequeno na escola, entao faz bastante tempo.
+	
+	
+Pergunta Joana: Qual série você esta assistindo atualmente?

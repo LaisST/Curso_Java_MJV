@@ -8,3 +8,5 @@ Pergunta Dani: Você gostaria de fazer jogos com programação?
 Resposta Dani: Sim, tenho interesse conhecer e ter como hobby programa para jogos rpg;
 Pergunta da Stefani: Quais séries está assistindo ultimamente? 
 Resposta Stefani: A Roda do Tempo e Peaky Blinders.
+
+Pergunta Joana: Qual o seu mangá favorito?

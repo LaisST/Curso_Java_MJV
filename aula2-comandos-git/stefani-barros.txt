@@ -9,3 +9,6 @@ Pergunta do Lucca: Aonde aprendeu cozinhar?
 
 Pergunta do Lucas: Assiste master chefe?
 		   Gosta mais de trabalhar com backend ou frontend?
+
+		   
+Pergunta Joana: Qual o seu prato favorito?		   

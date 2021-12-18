@@ -17,3 +17,6 @@ github: lucas-serra
 
 Pergunta Lucca: - Qual a melhor viagem que você já fez?
 		- Qual sua linguagem preferida para programar?
+		
+		
+Pergunta Joana: Qual lugar você sonha em conhecer?
