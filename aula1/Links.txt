@@ -22,6 +22,24 @@ https://docs.github.com/pt/organizations/managing-access-to-your-organizations-r
 
 https://learngitbranching.js.org/?locale=pt_BR
 
+//////////////////////////////////////////////////
+
+Como se tornar um desenvolvedor backend: https://youtu.be/wXMlMsDvk2M
+
+Diagrama: https://www.lucidchart.com/pages/pt/landing/ferramenta-de-diagram-uml-online?utm_source=google&utm_medium=cpc&utm_campaign=_chart_pt_allcountries_desktop_search_nb_bmm_&km_CPC_CampaignId=2074713299&km_CPC_AdGroupID=76935149659&km_CPC_Keyword=%2Buml&km_CPC_MatchType=b&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=388738780207&km_CPC_TargetID=kwd-305198913839&km_CPC_Country=9101554&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&mkwid=snlaR3PK7_pcrid_388738780207_pkw_%2Buml_pmt_b_pdv_c_slid__pgrid_76935149659_ptaid_kwd-305198913839_&gclid=Cj0KCQiA8ICOBhDmARIsAEGI6o1vNAxUhlsgmElEgQENXz82EgWcx2MsY3e75OsfVVMtlBZwxTUHzkEaAqGqEALw_wcB
+
+Diagrama: https://astah.net/products/free-student-license/
+
+DevChallenge: https://www.devchallenge.com.br/devs
+
+Desafios: https://github.com/CollabCodeTech/backend-challenges
+
+Curso Java completo: https://www.youtube.com/watch?v=Qgl81fPcLc8
+
+https://unbug.github.io/codelf/
+
+
+
 
 
 
