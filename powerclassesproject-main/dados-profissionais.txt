@@ -1,0 +1,3 @@
+Desevolvedor Junior;Eddward Messias Rocha;Masculino;250000;1000000;03021997;01289765498;4032875;Av. Floriano Peixoto; 100;Catolé; Campina Grande;PB;58410234;Campina Grande;Brasil;33378970;0839888332154;eddwardmessias@gmail.com;
+Desenvolvedor Sênior;Daniel Santos Silva;Masculino;500000;100000;15011995;03598745652;2322913;Dom Pedro ll;1405;Centro; São Paulo;SP;52315698;Porto Alegre;Brasil;40038923;022993687459;danielmoral@hotmail.com;
+Cantor;Gustavo Lima Rcoha de Sousa;Masculino;500000;10000000;08092000;05896427834;6874258;Setor Total Ville Quadra 201 ;301;Residencial Total Ville; Santa Maria;DF;72584300;Ceilandia;Brasil;40028922;025999105013;gustavolima@contato.com.br;
