@@ -48,3 +48,27 @@ from tab_ficha_cadastral
 where salario_minimo > 1000.0 and salario_minimo < 1500.0
 and escolaridade like 'SUPERIOR';
 --plus - order by - retornar os dados
+
+--Criando uma tabela com primary key 
+create table tab_cidade (
+	id int primary key,
+	nome varchar (50) not null
+);
+
+insert into tab_cidade values(
+	'1', 'SÃO PAULO'
+);
+
+insert into tab_cidade values(
+	3, 'CURITIBA'
+);
+
+--CRIANDO TABELA CLIENTE COM PRIMARY KEY COM AUTO INCREMENT
+create table tab_cliente (
+	id serial primary key,
+	nome varchar (50) not null
+);
+
+--ATUALIZAÇÃO UTILIZANDO O WHERE PARA GARANTIR QUE SOMENTE UM ID SERÁ ALTERADO
+update tab_cliente set nome = 'LAIS TEIXEIRA' where id = 1;
+update tab_cliente set nome = 'CAROLINE COSTA' where id = 2;
